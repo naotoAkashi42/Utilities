@@ -1,0 +1,6 @@
+C:\Users\aksh0\OneDrive\デスクトップ\Utilities\Utilities\bin\Release\Utilities.dll
+C:\Users\aksh0\OneDrive\デスクトップ\Utilities\Utilities\bin\Release\Utilities.pdb
+C:\Users\aksh0\OneDrive\デスクトップ\Utilities\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\aksh0\OneDrive\デスクトップ\Utilities\Utilities\obj\Release\Utilities.dll
+C:\Users\aksh0\OneDrive\デスクトップ\Utilities\Utilities\obj\Release\Utilities.pdb
+C:\Users\aksh0\OneDrive\デスクトップ\Utilities\Utilities\obj\Release\Utilities.csprojAssemblyReference.cache
