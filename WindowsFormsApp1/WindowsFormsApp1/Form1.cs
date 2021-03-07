@@ -11,11 +11,11 @@ namespace WindowsFormsApp1
     {
         private readonly CsvImportExport _csvImportExport;
 
-        private IEnumerable<string> Headers => new List<string> {"基本" + Environment.NewLine + "開始,条件,終了,条件", "応用" };
+        private IEnumerable<string> Headers => new List<string> {"基本" + Environment.NewLine + "人1,人2,人3,人14", "応用" };
 
         private IEnumerable<string> BasicSettings => new List<string>
         {
-            "MR000,↑,MR001,↓"
+            "田中,佐藤,伊能,井上"
         };
 
         private IEnumerable<string> AppSetting => new List<string>
